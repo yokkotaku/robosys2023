@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2022 Takumi Yokoo pokemonnguu@gmail.com
+# SPDX-FileCopyrightText: 2023 Takumi Yokoo pokemonnguu@gmail.com
 import sys
 
 ans = 0
