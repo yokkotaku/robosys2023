@@ -1,11 +1,18 @@
 # robosys2023
 
-#plusコマンド
+# plusコマンド
 [![test](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml)
-*　標準入力から読み込んだ数字を足す。 
+* 標準入力から読み込んだ数字を足す。 
+
+## 必要なソフトウェア
+* Python
+  * テスト済み: 3.7〜3.10
+
+## テスト環境
+* Ubuntu
 
 
-# 著作権・ライセンス
+## 著作権・ライセンス
 * このソフトウェアパッケージは、3か条項BSDライセンスの下、再頒布および使用が許可されます.
 * このパッケージは、aaa由来のコード（© 2023 Hoge Fuge）を利用しています.
 * このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです.
