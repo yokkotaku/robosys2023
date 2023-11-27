@@ -1,6 +1,11 @@
 # robosys2023
 [![test](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml)
 
+
+
+
+
+
 # 著作権・ライセンス
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
