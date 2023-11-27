@@ -1,6 +1,8 @@
 # robosys2023
-[![test](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml)
 
+#plusコマンド
+[![test](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yokkotaku/robosys2023/actions/workflows/test.yml)
+*　標準入力から読み込んだ数字を足す。 
 
 
 # 著作権・ライセンス
