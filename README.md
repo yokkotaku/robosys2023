@@ -17,9 +17,8 @@
    ./plus < nums  
    15
 ## インストール方法
- 1 robosys2023内のcodeからsshを選択しURLを取得する  
- 2 Ubuntuのターミナルで、git clone <取得したURL> で、クローンすることが出来る 
-
+1. $ git clone git@github.com:yokkotaku/robosys2023.git
+2. $ cd ~./ssh/robosys2023 
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7〜3.10
@@ -30,7 +29,6 @@
 
 ## 著作権・ライセンス
 * このソフトウェアパッケージは、3か条項BSDライセンスの下、再頒布および使用が許可されます.
-* このパッケージは、aaa由来のコード（© 2023 Hoge Fuge）を利用しています.
 * このパッケージのコードは、下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです.
 	* [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2023 Takumi Yokoo
