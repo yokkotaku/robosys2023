@@ -12,7 +12,7 @@
  * seq 10 | ./plus と入力すると、　55　と表示される  
    seq 10 | ./plus  
    55
- * seq 5 > nums でnumsというファイルを作ると　./plus < nums を入力すると、 15 と表示される 
+ * seq 5 > nums でnumsというファイルを作ると　./plus < nums を入力すると、 15 と表示される  
    seq 5 > nums  
    ./plus < nums  
    15
