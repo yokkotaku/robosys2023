@@ -22,7 +22,7 @@ $ git clone https://github.com/yokkotaku/robosys2023.git
    55
    ```
 
- * seq 5 > nums でnumsというファイルを作ると　./plus < nums を入力すると、 15 と表示される
+ * seq 5 > nums でnumsというファイルを作り、　./plus < nums を入力すると、 15 と表示される
 
    ```
    seq 5 > nums
