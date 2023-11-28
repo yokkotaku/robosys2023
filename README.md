@@ -17,10 +17,12 @@
    ./plus < nums  
    15
 ## インストール方法
-'''
+
+```
 1. $ git clone git@github.com:yokkotaku/robosys2023.git
 2. $ cd ~./ssh/robosys2023 
-'''
+```
+
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7〜3.10
