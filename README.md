@@ -27,7 +27,7 @@
 ## インストール方法
 sshの場合
 ```
-1. $ git clone git@github.com:yokkotaku/robosys2023.git 
+$ git clone git@github.com:yokkotaku/robosys2023.git 
 ```
 httpsの場合
 ```
