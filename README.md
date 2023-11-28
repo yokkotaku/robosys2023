@@ -17,7 +17,7 @@
    ./plus < nums  
    15
 ## インストール方法
- 1 robosys2023内のcodeからsshを選択しURLを取得する
+ 1 robosys2023内のcodeからsshを選択しURLを取得する  
  2 Ubuntuのターミナルで、git clone <取得したURL> で、クローンすることが出来る 
 
 ## 必要なソフトウェア
