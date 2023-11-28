@@ -25,12 +25,14 @@
    ```
    
 ## インストール方法
-
+sshの場合
 ```
-1. $ git clone git@github.com:yokkotaku/robosys2023.git
-2. $ cd ~./ssh/robosys2023 
+1. $ git clone git@github.com:yokkotaku/robosys2023.git 
 ```
-
+httpsの場合
+```
+$ git clone https://github.com/yokkotaku/robosys2023.git
+```
 ## 必要なソフトウェア
 * Python
   * テスト済み: 3.7〜3.10
